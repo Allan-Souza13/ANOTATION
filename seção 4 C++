@@ -1,1 +1,15 @@
+<<AULA 15>>
+Para comentar um "Hello, World!" colocamos cout << "Hallo, World!" << endl;
+
+#include (Incluir bibliotecas da linguagem c++).
+
+Palavras reservadas = é uma paralavra especifica da linguagem. 
+
+cout << "Alô"; cout << 5*5 " "; int x = 3*3; cout << x << endl; (endl coloca apenas no final do codigo.)
+
+o codigo a cima ira imprimir: Alô 25 9
+
+OBS: o ponto e virgula deve colocar no final do comando.
+
+
 
