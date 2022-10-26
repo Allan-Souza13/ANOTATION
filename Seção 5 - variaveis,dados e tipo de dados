@@ -1,0 +1,47 @@
+Lição 16:
+
+Dado: é um valor bruto que não tem necessariamente um significado, sabe o que representa, mas não gera nenhuma informação.
+
+variavel é um espaço de memoria para armazenar um dados.
+
+vetor é um espaço de memoria que guardamos varios dados do mesmo tipo.
+----------
+Unidade de medida:
+
+Bit > unidade menor de todas, que representa o 0 e 1.
+Byte > 1 Byte = 8bits
+Kilobytes > 1 kilobytes = 1024 Bytes
+Megabytes > 1 megabytes = 1024Bytes
+Gigabytes > 1 Gigabyte = 1024 Megabytes
+Terabytes > 1 Terabytes = 1024 Gigabytes
+-----------
+
+Boolean representa, verdadeiro ou falso (true ou false). 
+> bool boolean = true;
+> bool Boolean = false;
+
+--------------
+
+inteiro aloca na memoria 1 bite, armazena numeros.
+> int numero1 = 10;
+> int numero2 = 32;
+
+---------------
+
+char representa as letras e reserva na memoria do compitador 1 bit. Usar apenas o aspas simples ('').
+> char letra1 = 'A';
+> char letra2 = 'B';
+
+----------------
+
+float representa os numeros de casas decimais(10.545).
+
+>float decimal1 = 10.545;
+
+--------------------
+
+double acerta a precisão das casas decimais(10.5).
+>float decimal2 = 10.545;
+------------------------------
+
+void não contem valor.
