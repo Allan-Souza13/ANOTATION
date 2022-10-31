@@ -96,6 +96,40 @@ cout << "Resultado" << resultado << endl;
 __________
 
 
+int variavel1 = 12;
+int variavel2 = 43;
+
+bool resultado = variavel1 !=variavel2; //variavel1 é diferente da variavel2.
+
+cout << "Resultado: " << resultado << endl;
+
+___________
+
+
+int variavel1 = 12;
+int variavel2 = 12;
+
+bool resultado = variavel1 == variavel2 && 13 == 13; 
+
+_______
+
+int variavel1 = 12;
+int variavel2 = 12;
+
+bool resultado = variavel1 == variavel2 || 13 < 13; //resultado fica true
+
+cout << "Resultado: " << resultado << endl;
+________
+int verdade = true;
+
+verdade = !verdade; //O resultado será false.
+
+cout << verdade << endl;
+
+
+
+
+
 
 
   
