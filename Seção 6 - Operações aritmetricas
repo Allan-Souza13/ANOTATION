@@ -32,6 +32,9 @@ int idade = 5 + 3 - (10 * 30) / 4;
 
 cout << "o valor da conta é :" << idade <<endl;
 -----------------------------------------
+int variavel1 = 34;
+int variavel2 = 56;
+
 float resultadoSoma = variavel1 + variavel2;
 float resultadoSubtracao = variavel1 - variavel2;
 float resultadoDivisao = variavel1 / variavel2;
@@ -43,5 +46,15 @@ cout << "o valor é:" << resultadoSubtracao <<endl;
 cout << "o valor é:" << resultadoDivisao <<endl;
 cout << "o valor é:" << resultadoMultiplicacao <<endl;
 -----------------------------------
+int variavel1 = 65;
+	int variavel2 = 54;
+	
+	int resultado = variavel1 / variavel2;
+	int resto = variavel1 % variavel2;
+	
+	cout << "resultado" <<resultado << endl;
+	cout << "Restos: " <<resto << endl;
+  -------------------------------------
+  
 
 
