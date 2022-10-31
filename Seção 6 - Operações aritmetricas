@@ -56,5 +56,48 @@ int variavel1 = 65;
 	cout << "Restos: " <<resto << endl;
   -------------------------------------
   
+  Lição 19.Operadores:
+  
+  int idade = 50;
+  
+  idade += 10; //soma o valor de idade mais 10.
+  idade -= 10; //subtrai o valor de idade mais 10.
+  idade *= 10; //multiplica o valor de idade mais 10.
+  idade /= 10; //divide o valor de idade mais 10.
+  
+  cout << idade << endl;
+  ----------------------------------------------------
+                 Operadores Unarios:
+  
+  int idade = 50;
+  
+  idade++; //ira imprimir o valor da idade mais 1.
+  
+  cout << idade << endl;
+  ----------------------------------------------------
+               Operadores Unarios:
+
+int idade = 50;
+int idadeClone = 21;
+
+int resultado = idade++;
+
+int resultado2 = ++idadeClone;
+
+cout << "Resultade de idade: " << idade << endl;
+cout << "Resultado de idadeClone: "<< idadeClone <<endl;
+----------------------------------------------------------
+			Operadores relacionais: <, >, =
+
+
+bool resultado = 15 > 12;
+ 
+cout << "Resultado" << resultado << endl;
+__________
+
+
+
+
+  
 
 
