@@ -125,6 +125,20 @@ int verdade = true;
 verdade = !verdade; //O resultado será false.
 
 cout << verdade << endl;
+-----------------------------------------------
+
+Lição 20-Exercicio de comando de entrada.
+
+
+int idade;
+float media;
+
+cin >> idade >> media;
+
+cout << "Minha idade é " << idade << endl;
+cout << "Minha média foi " << media << endl;
+
+________________________________
 
 
 
