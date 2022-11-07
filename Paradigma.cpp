@@ -2,7 +2,7 @@
 using namespace std;
 
 //RGM: 23739070 Allan Pereira de Souza 
-//RGM:23382686 Vinícius Martins Calzetta
+
 
 class Carro //Classe Carro
 {
