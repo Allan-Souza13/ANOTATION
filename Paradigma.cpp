@@ -1,12 +1,12 @@
 #include <iostream>
 using namespace std;
 
-//RGM: 23739070 Allan Pereira de Souza 
+
 
 
 class Carro //Classe Carro
 {
-	//Criamos a velocidade e os modelos dos carros
+	// velocidade e os modelos dos carros
 	private:
 	int velocidade; 
 	string modelo;
@@ -83,7 +83,7 @@ class Moto
 
 
 
-//Chamamos os modelos dos carros no campo a baixo
+//modelos dos carros no campo a baixo
 int main(int argc, char const *argv[]) 
 {
 Carro *c1 = new Carro();
